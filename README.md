@@ -7,4 +7,4 @@ This project uses
 
 ## 🎥 Demo
 
-https://raw.githubusercontent.com/midst2/smartroom-automation-mobilnetSSD/main/202603120015%20(1).mp4
+https://github.com/user-attachments/assets/6a6ceb9f-394c-49a7-b451-ceddfd44db55
